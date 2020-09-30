@@ -5,8 +5,8 @@ Author: dxjester21
 '''
 
 # Make sure that the_flying_circus() returns True
-a = 5
-b = 6
+a = 4
+b = 9
 c = 7
 
 def the_flying_circus():
